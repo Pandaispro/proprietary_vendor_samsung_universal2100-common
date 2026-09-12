@@ -45,6 +45,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/clFGN8BitNV12_64.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/clFGN8BitNV12_64.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/clFGN8BitYV12_32.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/clFGN8BitYV12_32.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/clFGN8BitYV12_64.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/clFGN8BitYV12_64.bin \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l20.bin \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l25a.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a.wmfw \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l25a_cal.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_cal.wmfw \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l25a_clab.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_clab.bin \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l25a_clab.wmfw:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_clab.wmfw \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l25a_exc.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_exc.bin \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/cs40l25a_f0.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l25a_f0.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/default_configuration.flm.cfg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/default_configuration.flm.cfg.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/dsp_reloc_rules.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dsp_reloc_rules.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/libgaussian3x3.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/libgaussian3x3.elf \
