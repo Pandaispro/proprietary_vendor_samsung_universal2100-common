@@ -54,6 +54,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/listenbackeffect.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/listenbackeffect.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/mfc/mfc_fw_flash.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc/mfc_fw_flash.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/secure_configuration.flm.cfg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/secure_configuration.flm.cfg.bin \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/uwb/libsr100t_dev_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uwb/libsr100t_dev_fw.bin \
+    vendor/samsung/universal2100-common/proprietary/vendor/firmware/uwb/libsr100t_prod_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/uwb/libsr100t_prod_fw.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/firmware/volumemonitor.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/volumemonitor.bin \
     vendor/samsung/universal2100-common/proprietary/vendor/tee/00000000-0000-0000-0000-42494f535542:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-42494f535542 \
     vendor/samsung/universal2100-common/proprietary/vendor/tee/00000000-0000-0000-0000-6d706f667376:$(TARGET_COPY_OUT_VENDOR)/tee/00000000-0000-0000-0000-6d706f667376 \
